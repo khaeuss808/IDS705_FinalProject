@@ -129,7 +129,7 @@ The system is intended **only as a pre-screening tool**. It is not a substitute 
 
 ## 👥 Team & Contributions
 - **Alejandro Paredes La Torre**: Medical summarization & Q&A (Exp 5)
-- **Kayla Haeussler**: Data consolidation, Experiment 1
+- **Kayla Haeussler**: Data consolidation, Pre-trained Model Comparison(Exp 1)
 - **Ramil Mammadov**: Embedding analysis and interpretability (Exp 4)
 - **Sizhe Chen**: Cross-lingual evaluation (Exp 3), conclusion synthesis
 - **Zihan Xiao**: Robustness testing (Exp 2), visualizations, section writing
