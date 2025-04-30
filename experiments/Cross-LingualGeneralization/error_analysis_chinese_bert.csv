@@ -1,0 +1,6 @@
+Chinese Symptom (Input),True Label,Predicted Label
+我的身体遍布皮疹，因为我的皮肤发痒，所以我无法停止刮擦。我的皮肤还有一些斑点，可以改变色调，并有一些团块和结状的丘疹。,Infections,Dermatological & Skin Conditions
+我没有能力去做我过去的事情,Neurological & General Symptoms,Pain & Injuries
+现在，我体内到处都有红色斑点，到处都是瘙痒。其中一些斑块的肤色与我的天然皮肤也有所不同。这些肿块或肿块已经在我的皮肤上发展出来。,Infections,Dermatological & Skin Conditions
+在健身房第一天后，我的身体感觉虚弱，为什么？,Neurological & General Symptoms,Pain & Injuries
+我的皮肤发痒和红色。有时这些会导致剥落。我的脸和嘴唇在膨胀，并引起很多不一致的意见。有时我会得到水状的眼睛，浮肿时头脑很严重,Allergic/Immunologic Reactions,Dermatological & Skin Conditions
